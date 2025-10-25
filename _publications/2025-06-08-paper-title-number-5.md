@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "Stability Prediction in Nonlinear Turning Processes Using the Muller Algorithm"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
+permalink: submitted
+excerpt: 'Abstract— This paper reports the application of a root-finding method, the Muller method, for predicting machining stability in turning processes exhibiting process damping-related nonlinearities. We use the method to evaluate the process stability of a flexible tool modelled as a single degree of freedom system that interacts with a rotating workpiece. The system experiences the regeneration phenomena responsible for chatter. Prediction accuracies of the proposed method are found to agree with standard frequency and time domain methods of solving the resulting nonlinear delay differential equation. Though the method is computationally more demanding than the others, its advantages lie in being easy to implement and in being robust in handling process-related nonlinearities.'
+date: 2025-10-13
+venue: AIMTDR 2025, IIT Indore
 paperurl: 'https://academicpages.github.io/files/paper3.pdf'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
+Abstract— This paper reports the application of a root-finding method, the Muller method, for predicting machining stability in turning processes exhibiting process damping-related nonlinearities. We use the method to evaluate the process stability of a flexible tool modelled as a single degree of freedom system that interacts with a rotating workpiece. The system experiences the regeneration phenomena responsible for chatter. Prediction accuracies of the proposed method are found to agree with standard frequency and time domain methods of solving the resulting nonlinear delay differential equation. Though the method is computationally more demanding than the others, its advantages lie in being easy to implement and in being robust in handling process-related nonlinearities
