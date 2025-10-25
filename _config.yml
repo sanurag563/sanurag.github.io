@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Anurag's Homepage"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Anurag Singh"
 description              : &description "Anurag's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://sanurag563.github.io/sanurag.github.io/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://sanurag.github.io/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -26,8 +26,8 @@ author:
   avatar           : "my-passport-photo.jpg"
   name             : "Anurag Singh"
   pronouns         : # example: "she/her"  
-  bio              : "Learning and doing"
-  location         : "Earth"
+  bio              : "ReLearning"
+  location         : "Prayagraj, UP, India"
   employer         : "Indian Institute of Technology Kanpur"
   uri              : # URL
   email            : "anuragsingh2021@iitkalumni.org" 
@@ -38,9 +38,9 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=vxTt1DsAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : #"https://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -54,7 +54,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "anurag-singh-36276b166" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -76,7 +76,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : # Username
+  youtube          : "anuragsinghiitian" # Username
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
