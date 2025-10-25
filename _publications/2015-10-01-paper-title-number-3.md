@@ -1,5 +1,5 @@
 ---
-title: "Dynamics and stability of metal cutting circular saws with distributed and lubricated guides"
+title: "Dynamics and Stability of Metal Cutting Circular Saws with Distributed and Lubricated Guides"
 collection: publications
 category: manuscripts
 permalink: https://link.springer.com/article/10.1007/s42417-022-00544-6
@@ -8,8 +8,8 @@ date: 2022-05-16
 venue: 'Journal of Vibration Engineering & Technologies'
 #slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://link.springer.com/article/10.1007/s42417-022-00544-6'
-citation: 'Singhania, S., Singh, A. & Law, M. Dynamics and Stability of Metal Cutting Circular Saws with Distributed and Lubricated Guides. J. Vib. Eng. Technol. 10, 3119–3131 (2022). https://doi.org/10.1007/s42417-022-00544-6
-[Download paper here](https://link.springer.com/article/10.1007/s42417-022-00544-6)'
+citation: 'Singhania, S., Singh, A. & Law, M. Dynamics and Stability of Metal Cutting Circular Saws with Distributed and Lubricated Guides. J. Vib. Eng. Technol. 10, 3119–3131 (2022). https://doi.org/10.1007/s42417-022-00544-6'
 ---
 Abstract: Purpose This paper characterizes the dynamics and stability of metal cutting circular saws with distributed and lubricated guides. Though stability of point spring-guided circular saws is well studied, how the mass, damping, and stiffness properties of the fluid media between the rotating saw and distributed guides influences the saw’s stress–stability relationship remains unexplored. Characterizing these aspects and describing how the fluid induces speed-dependent viscous shear stresses on the saw to potentially influence its cutting behaviour are the main new technical contributions of this paper. Methods The governing equation of motion is solved using the Galerkin projection method, and through model-based investigations, we analyse the role of different lubricating fluids with differently sized guides and with changing clearances between the saw and the guides. We characterize the frequency–speed behaviour of the saw for its critical speeds and the forced vibration response of the saw using the frequency response function. Results We note that stiffness of the fluid media plays a more significant role than its mass, damping, and/or viscosity. For large guides with stiff fluids and small clearances, instabilities occur at speeds lesser than the critical speed. For similar configurations, forced response characteristics are at least an order of magnitude dynamically stiffer than the case of the unguided saws. We further note that the free and forced vibration response for two smaller guides is better than one larger one. Conclusions Our findings can instruct sizing and placing guides and in selecting appropriate fluid media for stabilizing metal sawing processes.
+
 [Download paper here](https://link.springer.com/article/10.1007/s42417-022-00544-6)'
