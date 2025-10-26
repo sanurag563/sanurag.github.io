@@ -1,5 +1,5 @@
 ---
-permalink: https://sanurag563.github.io/sanurag.github.io/
+permalink: /
 title: "Welcome"
 author_profile: true
 redirect_from: 
