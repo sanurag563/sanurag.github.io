@@ -1,19 +1,30 @@
 ---
 permalink: /
-title: "👋 Hello there, I'm Anurag!"
+title: "Welcome"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a passionate mechanical engineer with a specialization in dynamics, machining, vibrations, and controls. Armed with a Distinction in B.Tech-M.Tech in Design and Manufacturing engineering from the India Institute of Technology, Kanpur, India, I possess a strong foundation in mathematical modeling, critical thinking, and attention to detail skills. Adept at leveraging the first principles and a multidisciplinary approach to solve complex problems. During my master's, I worked on "Regenerative instabilities of metal cutting circular saws with lubricated and distributed guides" and developed a mathematical model to ease the design of guides, their number, and cooling fluid selection for metal cutting saws under the guidance of Dr. Mohit Law.
+I am Anurag, a mechanical engineer driven by curiosity and precision, specializing in dynamics, machining, vibrations, and controls. I hold a B.Tech–M.Tech dual degree with Distinction in Design and Manufacturing Engineering from the Indian Institute of Technology, Kanpur. My academic journey has equipped me with a strong foundation in mathematical modeling, critical thinking, and detail-oriented problem solving. I thrive on applying first principles and multidisciplinary approaches to tackle complex engineering challenges. During my master’s research, I investigated “Regenerative instabilities of metal cutting circular saws with lubricated and distributed guides.” Under the guidance of [Prof. Mohit Law](https://home.iitk.ac.in/~mlaw/), I developed a mathematical model to optimize guide design, determine the required number of guides, and select appropriate cooling fluids for enhanced performance in metal cutting saws.
 
-I have four years of industry experience in product design, development, and requirement engineering at EATON India Innovation Center, Pune, in the Aerospace interconnect technology division ([ITD, EATON](https://www.eaton.com/in/en-us/markets/aerospace/interconnect.html)), where I worked as a product engineer. My role involved leading the design and development of custom backshells for various OEMs (Boeing, Fokker, Airbus). Apart from technical roles, I was also leading the AS9100D (engineering quality management system at the team level, which required the creation of process documents and training the team on the same) certification, worked as an expert and trainer for AERO-ENOVIA PLM software, and trained 100+ engineers. I gained expertise in "Requirement management", "GD&T", "DfSS", "Project Management", "SolidWorks", "Enovia (PLM)", and "AS9100D".
+Industry Experience
+---
+I bring four years of professional experience in product design, development, and requirement engineering at the Eaton India Innovation Center, Pune, within the Aerospace [Interconnect Technology Division](https://www.eaton.com/in/en-us/markets/aerospace/interconnect.html), where I served as a Product Engineer. In this role, I was responsible for the design and development of custom backshells for major OEMs, including Boeing, Fokker, and Airbus. Beyond technical contributions, I also assumed leadership responsibilities in engineering quality management, spearheading the AS9100D certification process at the team level. This involved authoring process documentation, implementing compliance frameworks, and conducting training sessions to ensure adherence across the engineering team. This position also provided significant international exposure, as I collaborated with global teams in the USA and France, coordinating design and certification activities across multiple stakeholders. Additionally, I served as an expert and trainer for AERO-ENOVIA PLM software, where I successfully trained and mentored over 100 engineers. Through these experiences, I developed expertise in: Requirement Management, Geometric Dimensioning & Tolerancing (GD&T), Design for Six Sigma (DfSS), Project Management, SolidWorks, ENOVIA (PLM), and AS9100D Quality Systems (defines quality management requirements for organizations in aviation, space, and defense).
 
-Currently, I am working as a research and development engineer in the [Machine Tool Dynamics Lab](https://home.iitk.ac.in/~mlaw/), IIT Kanpur. And developing a smart tool holder plug-and-play device for real-time condition monitoring.
+Current Position
+---
+I am presently working as a Research and Development Engineer in the [Machine Tool Dynamics Laboratory](https://home.iitk.ac.in/~mlaw/), Indian Institute of Technology Kanpur. My current work involves the development of a smart tool holder plug-and-play device for real-time condition monitoring in machining applications. This project integrates principles of dynamics, sensing, and digital manufacturing to enable intelligent monitoring and improved process reliability.
 
-My research focus areas are dynamics, vibration, controls, digital manufacturing, machining dynamics, hybrid manufacturing, and robotics.
+Research Interests
+---
+My research interests span the following areas:
+1. Dynamics and Vibration
+2. Controls and Mechatronics
+3. Machining Dynamics
+4. Digital and Hybrid Manufacturing
+5. Robotics and Intelligent Systems
 
 “Nobody ever figures out what life is all about, and it doesn't matter. Explore the world. Nearly everything is really interesting if you go into it deeply enough.”
 ― Richard P. Feynman
