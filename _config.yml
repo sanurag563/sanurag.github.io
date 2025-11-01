@@ -88,6 +88,13 @@ publication_category:
   conferences:
     title: 'Conference Papers'
 
+# Research Category - The following the list of projects categories and their headings
+research_category:
+  research:
+    title: "Research Projects"
+  technical:
+    title: "Technical Projects"
+
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
 breadcrumbs              : false # true, false (default)
