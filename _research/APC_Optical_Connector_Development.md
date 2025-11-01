@@ -1,5 +1,5 @@
 ---
-title: "APC Optical Connector Development "
+title: "APC Optical Connector Development"
 collection: research
 category: research
 layout: research
