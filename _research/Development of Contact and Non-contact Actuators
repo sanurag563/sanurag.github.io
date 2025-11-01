@@ -1,0 +1,11 @@
+---
+title: "Development of Contact and Non-contact Actuators"
+collection: research
+category: technical
+layout: research
+date: 2020-03-31
+venue: "Machine Tool Dynamics Lab, IIT Kanpur"
+---
+- Designed electromagnetic actuators for active vibration control with a force output of 100N, modeled the design as magnetic circuits and optimized it using MATLAB optimization toolbox
+- Simulated the functioning of the designed actuators in COMSOL Multiphysics and fabricated the actuators
+- Participated in product exhibition held in IIT Delhi sponsored by IMPRINT’19, Gov. of India to present the project
