@@ -2,7 +2,7 @@
 title: "APC Optical Connector Development "
 collection: research
 category: research
-date: 2025-08-30
+timeline: "Jan 2025 – Aug 2025"
 venue: "Eaton India Innovation Center, Pune"
 ---
 - Developed a geometrical model in SolidWorks to define ferrule end face parameter of single-mode fiber APC contact
