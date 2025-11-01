@@ -2,6 +2,7 @@
 title: "APC Optical Connector Development "
 collection: research
 category: research
+layout: research
 timeline: "Jan 2025 – Aug 2025"
 venue: "Eaton India Innovation Center, Pune"
 ---
