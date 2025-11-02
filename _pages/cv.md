@@ -38,9 +38,10 @@ Skills
 * Technical Skills:
   * Engineering Software: MATLAB, Mathcad, Maple, COMSOL Multiphysics, LabVIEW, Arduino, SolidWorks, Fusion 360, AutoCAD, CATIA, ENOVIA (PLM)
   * Programming Language: MATLAB, Python, C++, LaTeX, C
-  * Experimental Skills: Signal Processing | Data Acquisition | Sensor Calibration | DIY Electronics
+  * Experimental Skills: Signal Processing, Data Acquisition, Sensor Calibration, DIY Electronics
+  * Other Industry Skills: GD&T, Stackup Analysis, Requirement Management, DfSS, SolidWorks Automation, AS9100D (Quality management - Aviation, defense, and space industries)
 * Language Skills:
-    * English (advanced IELTS Academics Score - 7)
+    * English (advanced IELTS Academic Score - 7)
     * Hindi (native)
 
 Publications
@@ -49,11 +50,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-//Talks
-//======
-  //<ul>{% for post in site.talks reversed %}
-    //{% include archive-single-talk-cv.html  %}
-  //{% endfor %}</ul>
+# Talks
+# ======
+  #<ul>{% for post in site.talks reversed %}
+    #{% include archive-single-talk-cv.html  %}
+  #{% endfor %}</ul>
   
 Teaching
 ======
