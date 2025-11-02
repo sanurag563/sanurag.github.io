@@ -16,25 +16,20 @@ I am presently working as a Research and Development Engineer in the [Machine To
 Industry Experience (Aug'21 - Aug'25)
 ---
 I bring four years of professional experience in product design, development, and requirement engineering at the Eaton India Innovation Center, Pune, within the Aerospace [Interconnect Technology Division](https://www.eaton.com/in/en-us/markets/aerospace/interconnect.html), where I served as an R&D Product Engineer. In this role, I was responsible for the design and development of custom backshells for major OEMs, including Boeing, Fokker, and Airbus, as well as the design of new optical connectors. I also led CAD automation initiatives that streamlined repetitive design tasks, resulting in significant cost reductions. This position also provided significant international exposure, as I collaborated with global teams in the USA, Mexico, and France, coordinating design and testing activities across multiple stakeholders. Beyond technical contributions, I assumed leadership responsibilities in engineering quality management, where I spearheaded the AS9100D certification process at the team level. This involved drafting process documentation, implementing compliance frameworks, and conducting training sessions to ensure adherence across the engineering team. In addition, I served as an expert and trainer for AERO-ENOVIA PLM software, successfully training and mentoring over 100 engineers, and worked as a design checker, reviewing more than 200 technical documents.
-Through these experiences, I developed expertise in: 
-1. Requirement Management
-2. Geometric Dimensioning & Tolerancing (GD&T)
-3. Design for Six Sigma (DfSS)
-4. Project Management
-5. SolidWorks
-6. ENOVIA (PLM)
-7. AS9100D Quality Systems (defines quality management requirements for organizations in aviation, space, and defense)
-8. Digitalization of CAD modeling
 
 Research Interests
 ---
 My research interests span the following areas:
 1. Dynamics and Vibration
-2. Controls and Mechatronics
-3. In-space Manufacturing
-4. Machining Dynamics
+2. Machining Dynamics
+4. In-space Manufacturing
 5. Digital and Hybrid Manufacturing
-6. Robotics and Intelligent Systems
+6. Controls and Mechatronics
+7. Robotics and Intelligent Systems
+
+Hobbies
+---
+Reading | Running | Walking | HIIT (Gym)
 
 ---
 “Nobody ever figures out what life is all about, and it doesn't matter. Explore the world. Nearly everything is really interesting if you go into it deeply enough.”
