@@ -33,14 +33,17 @@ Industry Experience
     * Worked as project planner and mentor for end-to-end CAD modelling automation to reduce the design TAT by 60%
     * Authored Backshell product specific design book to make design decisions independent and error free
 
-  * Certifications
+  * Certifications and Courses
       * Completed Certification on ‘Requirements Management’, June 2022
       * Completed Certification on ‘Geometric Dimensioning and Tolerancing (GD&T)’, Nov. 2022
       * Completed Certification on ‘AS9100 Awareness cum Internal Quality Auditor's Course’, Feb. 2024
+      * Completed Course on ‘Design for Six Sigma (DfSS)’, Nov. 2023
+      * Completed Course on ‘Basics of Project Management’, March 2025
   
 Skills
 ======
-* Academic Skills: Critical thinking, Research methodologies, Mathematical ability, Project management, Communication ability, Time management, Attention to details, Writing proficiency, Adaptability, Collaboration, Curiosity, and Perseverance
+* Academic Skills:
+    * Critical thinking, Research methodologies, Mathematical ability, Project management, Communication ability, Time management, Attention to details, Writing proficiency, Adaptability, Collaboration, Curiosity, and Perseverance
 * Technical Skills:
   * Engineering Software: MATLAB, Mathcad, Maple, COMSOL Multiphysics, LabVIEW, Arduino, SolidWorks, Fusion 360, AutoCAD, CATIA, CREO, ENOVIA (PLM)
   * Programming Language: MATLAB, Python, C++, LaTeX, C
