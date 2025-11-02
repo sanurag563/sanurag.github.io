@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Technical Consultant"
 collection: teaching
-type: "Undergraduate course"
+type: "Manufacturing Processes II, Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "IIT Kanpur, Mechanical Department"
+date: 2020-03-31
+location: "IIT Kanpur"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+-	Assisted the course instructor in introducing Arduino-based programming in the course with 450+ students registered
+-	Organized a workshop for the lab staff to introduce Arduino programming and facilitated in smooth conduction of its labs throughout the two semesters
