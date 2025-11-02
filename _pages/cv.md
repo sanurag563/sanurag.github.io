@@ -72,11 +72,9 @@ Service and leadership
 * Social Service
     * iTeach Abhyasika: Mentored 40+ underprivileged school kids on subjects related to science and mathematics.
     * LIFELAB: Collaborated with 20+ volunteers to review and update science lesson plans for grades 6-10
-    * Shiksha Sopan (NGO): Taught math and science and provided weekly guidance to 50 underprivileged children near the campus under an NGO headed by Prof. H C Verma and headed various events organized by the NGO
-* Prayas, IITK
-    * Volunteered to teach English to 15 class 7th and 8th student and Science to 20 class 10th and 12th student under an IITK initiated program – Prayas
-* Unnat Bharat Abhiyan, IITK
-    * Volunteered to teach 30 underprivileged kids for the Navodaya school preparation from a village near IITK and led a team of 3 NSS volunteers
+    * Shiksha Sopan (NGO): Taught math and science and provided weekly guidance to 50 underprivileged children near the campus under an NGO headed by Prof. H C Verma, and headed various events organized by the NGO
+    * Prayas, IITK: Volunteered to teach English to 15 class 7th and 8th students and Science to 20 class 10th and 12th students under an IITK initiated program – Prayas
+    * Unnat Bharat Abhiyan, IITK: Volunteered to teach 30 underprivileged kids for the Navodaya school preparation from a village near IITK and led a team of 3 NSS volunteers
 
 Hobbies
 ======
