@@ -16,7 +16,8 @@ Education
 
 Industry Experience
 ======
-* Aug'2021-Aug'2025: Product R&D Engineer (Eaton Indian Innovation Center) 
+* Aug'2021-Aug'2025: Product R&D Engineer (Eaton Indian Innovation Center)
+
   * Product & Sustenance Engineering
     * Headed design of Optical connectors and Backshell products for commercial and military applications
     * Led design and development of custom Backshells for Boeing, Airbus, and Fokker, including Boeing BACC10 and Fokker JSFC, applied Project Management, Requirement Management, DfSS skills
@@ -31,15 +32,20 @@ Industry Experience
     * Served as an internal expert and trainer for AERO-ENOVIA PLM software and trained 100+ engineers
     * Worked as project planner and mentor for end-to-end CAD modelling automation to reduce the design TAT by 60%
     * Authored Backshell product specific design book to make design decisions independent and error free
+
+  * Certifications
+      * Completed Certification on ‘Requirements Management’, June 2022
+      * Completed Certification on ‘Geometric Dimensioning and Tolerancing (GD&T)’, Nov. 2022
+      * Completed Certification on ‘AS9100 Awareness cum Internal Quality Auditor's Course’, Feb. 2024
   
 Skills
 ======
 * Academic Skills: Critical thinking, Research methodologies, Mathematical ability, Project management, Communication ability, Time management, Attention to details, Writing proficiency, Adaptability, Collaboration, Curiosity, and Perseverance
 * Technical Skills:
-  * Engineering Software: MATLAB, Mathcad, Maple, COMSOL Multiphysics, LabVIEW, Arduino, SolidWorks, Fusion 360, AutoCAD, CATIA, ENOVIA (PLM)
+  * Engineering Software: MATLAB, Mathcad, Maple, COMSOL Multiphysics, LabVIEW, Arduino, SolidWorks, Fusion 360, AutoCAD, CATIA, CREO, ENOVIA (PLM)
   * Programming Language: MATLAB, Python, C++, LaTeX, C
   * Experimental Skills: Signal Processing, Data Acquisition, Sensor Calibration, DIY Electronics
-  * Other Industry Skills: GD&T, Stackup Analysis, Requirement Management, DfSS, SolidWorks Automation, AS9100D (Quality management - Aviation, defense, and space industries)
+  * Other Industry Skills: GD&T, Stackup Analysis, Requirement Management, DfSS, SolidWorks Automation, Product development (ProLaunch and PreLaunch), AS9100D (Quality management - Aviation, defense, and space industries)
 * Language Skills:
     * English (advanced IELTS Academic Score - 7)
     * Hindi (native)
