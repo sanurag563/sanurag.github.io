@@ -8,4 +8,4 @@ date: 2020-03-31
 location: "IIT Kanpur"
 ---
 -	Assisted the course instructor in introducing Arduino-based programming in the course with 450+ students registered
--	Organized a workshop for the lab staff to introduce Arduino programming and facilitated in smooth conduction of its labs throughout the two semesters
+-	Organized a workshop for 10+ lab staff to introduce Arduino programming and facilitated in smooth conduction of its labs throughout the two semesters
