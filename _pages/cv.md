@@ -16,11 +16,11 @@ Education
 
 Industry Experience
 ======
-* Aug'2021-Aug'2025: Product R&D Engineer (Eaton Indian Innovation Center)
+* Aug'2021-Aug'2025: Product R&D Engineer (Eaton Indian Innovation Center, India)
 
   * Product & Sustenance Engineering
     * Headed design of Optical connectors and Backshell products for commercial and military applications
-    * Led design and development of custom Backshells for various OEMS, including Boeing, Airbus, Fokker, and Bombardier, applied Project Management, Requirement Management, DfSS skills
+    * Led design and development of custom Backshells for OEMs Boeing, Airbus, and Fokker applied Project Management, Requirement Management, DfSS skills
     * Collaborated with US team and developed innovative solution for Boeing's evolving requirements for Band
     * Supported bids and proposals for various OEMs including Airbus, Lockheed Martin, Boeing, and Bombardier, as a requirement management lead, subsequently led the creation of RFQ automation tool to reduce TAT by 90%
     * Led backshell sustenance projects from India, collaborated with US and Mexico teams, created SOP document based on AS9100D and EATON’s quality objective and policy to improve the performance matrix by 30%
