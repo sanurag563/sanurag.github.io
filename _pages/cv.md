@@ -34,12 +34,14 @@ Industry Experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Academic Skills: Critical thinking, Research methodologies, Mathematical ability, Project management, Communication ability, Time management, Attention to details, Writing proficiency, Adaptability, Collaboration, Curiosity, and Perseverance
+* Technical Skills:
+  * Engineering Software: MATLAB, Mathcad, Maple, COMSOL Multiphysics, LabVIEW, Arduino, SolidWorks, Fusion 360, AutoCAD, CATIA, ENOVIA (PLM)
+  * Programming Language: MATLAB, Python, C++, LaTeX, C
+  * Experimental Skills: Signal Processing | Data Acquisition | Sensor Calibration | DIY Electronics
+* Language Skills:
+    * English (advanced IELTS Academics Score - 7)
+    * Hindi (native)
 
 Publications
 ======
@@ -47,11 +49,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+//Talks
+//======
+  //<ul>{% for post in site.talks reversed %}
+    //{% include archive-single-talk-cv.html  %}
+  //{% endfor %}</ul>
   
 Teaching
 ======
@@ -61,4 +63,17 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Leadership
+    * Registration Core Team Head (Open House Event IITK’2020): Headed a team of 150+ volunteers to smoothly conduct the event involving 2000+ students and teachers, collaborated with a team of 3, approached 70+ schools to seek participation, and managed registration of 45+ schools
+* Social Service
+    * iTeach Abhyasika: Mentored 40+ underprivileged school kids on subjects related to science and mathematics.
+    * LIFELAB: Collaborated with 20+ volunteers to review and update science lesson plans for grades 6-10
+    * Shiksha Sopan (NGO): Taught math and science and provided weekly guidance to 50 underprivileged children near the campus under an NGO headed by Prof. H C Verma and headed various events organized by the NGO
+* Prayas, IITK
+    * Volunteered to teach English to 15 class 7th and 8th student and Science to 20 class 10th and 12th student under an IITK initiated program – Prayas
+* Unnat Bharat Abhiyan, IITK
+    * Volunteered to teach 30 underprivileged kids for the Navodaya school preparation from a village near IITK and led a team of 3 NSS volunteers
+
+Hobbies
+======
+Reading | Running | Walking | HIIT (Gym)
