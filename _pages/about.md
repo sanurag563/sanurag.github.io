@@ -21,11 +21,13 @@ Research Interests
 ---
 My research interests span the following areas:
 1. Dynamics and Vibration
-2. Machining Dynamics
-4. In-space Manufacturing
-5. Digital and Hybrid Manufacturing
-6. Controls and Mechatronics
-7. Robotics and Intelligent Systems
+2. Metamaterials for vibration control and Smart sensing applications
+3. Smart & Active Structures
+4. Machining Dynamics
+5. In-space Manufacturing
+6. Digital and Hybrid Manufacturing
+7. Controls and Mechatronics
+8. Robotics and Intelligent Systems
 
 Hobbies
 ---
