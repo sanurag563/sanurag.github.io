@@ -20,11 +20,11 @@ I bring four years of professional experience in product design, development, an
 Research Interests
 ---
 My research interests span the following areas:
-1. Dynamics and Vibration
+1. Materials for extreme environments 
 2. Mathematical Modelling and Mechanics of Solids
 3. Metamaterials for vibration control and Smart sensing applications
 4. Smart & Active Structures
-5. Machining Dynamics
+5. Dynamics and Vibration, Machining Dynamics
 6. In-space Manufacturing
 7. Digital and Hybrid Manufacturing
 
