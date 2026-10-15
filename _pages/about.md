@@ -28,3 +28,5 @@ Reading | Running | Walking | Gym
 ― Richard P. Feynman
   
 “Nothing in life is to be feared, it is only to be understood.” - Maria Skłodowska-Curie
+  
+"Everybody has a capacity for a happy life. All these talks about how difficult times we live in, that's just a clever way to justify fear and laziness." - Lev Landau
