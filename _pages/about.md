@@ -11,7 +11,7 @@ I am Anurag, a mechanical engineer driven by curiosity and passion, specializing
 
 Current Assignment (Aug'26 - Present)
 ---
-I am currently pursuing a PhD in "Physics and Data-driven design of Machine Tools" at [Polytechnique Montréal, Canada](https://www.polymtl.ca/) under the supervision of [Prof. Ozughan Tuysuz](https://www.polymtl.ca/expertises/en/tuysuz-oguzhan).
+I am currently pursuing a PhD in "Physics and Data-driven design of Machine Tools" at [Polytechnique Montréal, Canada](https://www.polymtl.ca/) under the supervision of [Prof. Oguzhan Tuysuz](https://www.polymtl.ca/expertises/en/tuysuz-oguzhan).
 
 Senior Project Associate (Sept'25 - Aug'26)
 ---
