@@ -29,8 +29,8 @@ Reading | Running | Walking | Gym
 ---  
 
 “Nobody ever figures out what life is all about, and it doesn't matter. Explore the world. Nearly everything is really interesting if you go into it deeply enough.”
-― Richard P. Feynman
+― [Prof. Richard P. Feynman](https://www.richardfeynman.com/index.html)
   
-“Nothing in life is to be feared, it is only to be understood.” - Maria Skłodowska-Curie
+“Nothing in life is to be feared, it is only to be understood.” - [Prof. Maria Skłodowska-Curie](https://www.nobelprize.org/stories/women-who-changed-science/marie-curie/)
   
-"Everybody has a capacity for a happy life. All these talks about how difficult times we live in, that's just a clever way to justify fear and laziness." - Lev Landau
+"Everybody has a capacity for a happy life. All these talks about how difficult times we live in, that's just a clever way to justify fear and laziness." - [Prof. Lev Landau](https://scholar.google.com/citations?user=z-tOdB4AAAAJ&hl=de)
