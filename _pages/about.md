@@ -9,7 +9,11 @@ redirect_from:
 
 I am Anurag, a mechanical engineer driven by curiosity and passion, specializing in dynamics, machining, and vibrations. I hold a B.Tech–M.Tech dual degree with Distinction in Design and Manufacturing Engineering from the Indian Institute of Technology, Kanpur. My academic journey has equipped me with a strong foundation in mathematical modeling, critical thinking, and detail-oriented problem-solving. I thrive on applying first principles and multidisciplinary approaches to tackle complex engineering challenges. During my master’s research, I worked on “Regenerative instabilities of metal cutting circular saws with lubricated and distributed guides” under the guidance of [Prof. Mohit Law](https://home.iitk.ac.in/~mlaw/), and developed a mathematical model to optimize the guide design, determine the required number of guides, and select appropriate cooling fluids for enhanced performance in metal cutting saws.
 
-Current Assignment (Sept'25 - Present)
+Current Assignment (Aug'26 - Present)
+---
+I am currently pursuing a PhD in "Physics and Data-driven design of Machine Tools" at [Polytechnique Montréal, Canada](https://www.polymtl.ca/).
+
+Senior Project Associate (Sept'25 - Aug'26)
 ---
 I am presently working as a Research and Development Engineer in the [Machine Tool Dynamics Laboratory](https://home.iitk.ac.in/~mlaw/), Indian Institute of Technology Kanpur. My research focuses on the development of a smart toolholder for real-time condition monitoring in machining applications. This work integrates vibration, temperature, force, and torque sensors with custom-designed electronic circuits for signal conditioning and processing.
 Additionally, I am involved in developing a high-speed metal cutting test setup to analyze the material properties of 3D-printed metals during machining using digital image correlation analysis.
